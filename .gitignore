@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+darijaenv/
+.venv/
+env/
+venv/
+
+# Environment Variables
+.env
+
+# Database
+chat.db
+
+# Chainlit
+.chainlit/
+
+# MacOS
+.DS_Store
+
+# Test app in streamlit
+app.py
+
+# Static files
+public/
+

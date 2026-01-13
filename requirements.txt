@@ -1,0 +1,5 @@
+chainlit
+google-genai
+python-dotenv
+aiosqlite
+sqlalchemy
