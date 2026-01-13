@@ -30,14 +30,14 @@ Welcome to **El Motarjem**, your specialized AI assistant for translating Morocc
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
-   cd DarijaTranslator
+   git clone https://github.com/Oumarkei/el-motarjem-moroccan-darija-translator.git
+   cd el-motarjem-moroccan-darija-translator
    ```
 
 2. **Create a virtual environment (recommended):**
 
    ```bash
-   python -m venv darijaenv
+   python3 -m venv darijaenv
    source darijaenv/bin/activate  # On Windows use: darijaenv\Scripts\activate
    ```
 
@@ -73,7 +73,14 @@ Welcome to **El Motarjem**, your specialized AI assistant for translating Morocc
 
 ## 🏃‍♂️ Usage
 
-Run the Chainlit application:
+1. **Initialize the database:**
+
+   ```bash
+   python init_db.py
+   ```
+
+2. **Run the Chainlit application:**
+
 
 ```bash
 chainlit run chainlit_app.py -w
