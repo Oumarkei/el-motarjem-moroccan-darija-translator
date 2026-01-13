@@ -7,11 +7,7 @@
 
 Welcome to **El Motarjem**, your specialized AI assistant for translating Moroccan Darija to English/French and vice versa. Powered by Google's Gemini models, El Motarjem can handle both text and image inputs (via OCR).
 
-<p align="center">
-  <img src="assets/Demo_image.png" alt="Demo Image for El Mortajem" width="50" />
-</p>
-
-
+![Demo Image for El Motarjem](assets/Demo_image.png)
 
 ## ✨ Features
 
