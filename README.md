@@ -94,9 +94,7 @@ The application will be available at [http://localhost:8000](http://localhost:80
 
 - `chat.db`: SQLite database storing user sessions and history.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
----
-*Developed by Oumar KEITA*
+# 👤 Created By
+Oumar KEITA
+Data Scientist | Industrial Management Engineer
+LinkedIn: https://www.linkedin.com/in/oumar-keita-a04374245/
